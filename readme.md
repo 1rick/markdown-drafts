@@ -8,3 +8,7 @@ This is a shell script and applescript combo that will do three things:
 
 I recommend you drop the entire 'markdown-drafts' folder in dropbox. That's where I'm putting it, anyway.... But move the New_post.scpt file (or a copy of it) to your /LIBRARY/SCRIPTS/ folder so it can be run from your menu bar. You will also have to run (from terminal) chmod +x /Users/username/Dropbox/markdown-drafts/scripts/newpost.sh to make the shell script executable.
 
+###Credits
+* Grigory V for the [shell script](http://vimeo.com/28361037) 
+* Hat tip to the excellent [Brett Terpstra](http://brettterpstra.com/) for continued textmate-fu and for [Marked](http://markedapp.com/).
+
