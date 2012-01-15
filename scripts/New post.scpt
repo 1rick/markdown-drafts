@@ -1,0 +1,1 @@
+do shell script "/Users/ineedrick/Dropbox/markdown-drafts/scripts/newpost.sh"
